@@ -89,7 +89,7 @@ Node.js: JavaScript runtime used to run the backend server.
 
 **Related Repositories**
 
-Frontend Application: https://eagle-track007.vercel.app/
+Frontend Application: https://github.com/QuantumSudo/eagle-track-frontend.git
 
 **Support and Contact Details**
 If you have any questions, suggestions, or need assistance, feel free to reach out:
