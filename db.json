@@ -1,0 +1,497 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy S21",
+        "quantity": 25,
+        "price": 74999
+      },
+      {
+        "id": 2,
+        "name": "Nokia 105",
+        "quantity": 120,
+        "price": 2500
+      },
+      {
+        "id": 3,
+        "name": "Apple MacBook Air M1",
+        "quantity": 10,
+        "price": 120000
+      },
+      {
+        "id": 4,
+        "name": "Sony Noise Cancelling Headphones",
+        "quantity": 30,
+        "price": 15000
+      },
+      {
+        "id": 5,
+        "name": "HP Pavilion Laptop",
+        "quantity": 18,
+        "price": 67000
+      },
+      {
+        "id": 6,
+        "name": "Samsung 50-inch LED TV",
+        "quantity": 15,
+        "price": 50000
+      },
+      {
+        "id": 7,
+        "name": "LG Washing Machine 8kg",
+        "quantity": 8,
+        "price": 35000
+      },
+      {
+        "id": 8,
+        "name": "Oppo F19 Pro",
+        "quantity": 50,
+        "price": 29000
+      },
+      {
+        "id": 9,
+        "name": "Samsung Galaxy A52",
+        "quantity": 45,
+        "price": 29000
+      },
+      {
+        "id": 10,
+        "name": "HP DeskJet 2331 Printer",
+        "quantity": 40,
+        "price": 6500
+      },
+      {
+        "id": 11,
+        "name": "Electric Kettle - 1.7L",
+        "quantity": 100,
+        "price": 1500
+      },
+      {
+        "id": 12,
+        "name": "Supermart Rice 5kg",
+        "quantity": 200,
+        "price": 2300
+      },
+      {
+        "id": 13,
+        "name": "Kenya Power Extension Cable",
+        "quantity": 75,
+        "price": 1200
+      },
+      {
+        "id": 14,
+        "name": "Sugar - 2kg",
+        "quantity": 150,
+        "price": 300
+      },
+      {
+        "id": 15,
+        "name": "Tropikal Fruit Juice - 1L",
+        "quantity": 80,
+        "price": 220
+      },
+      {
+        "id": 16,
+        "name": "Kenya Airways T-Shirt",
+        "quantity": 150,
+        "price": 1200
+      },
+      {
+        "id": 17,
+        "name": "Nescafe Coffee - 200g",
+        "quantity": 95,
+        "price": 800
+      },
+      {
+        "id": 18,
+        "name": "Pampers Diapers (Large) - 50 Pieces",
+        "quantity": 60,
+        "price": 2500
+      },
+      {
+        "id": 19,
+        "name": "Supermart Cooking Oil - 5L",
+        "quantity": 50,
+        "price": 1500
+      },
+      {
+        "id": 20,
+        "name": "Sharp Microwave Oven",
+        "quantity": 25,
+        "price": 8500
+      },
+      {
+        "id": 21,
+        "name": "Nokia 6.2 Dual SIM",
+        "quantity": 45,
+        "price": 24000
+      },
+      {
+        "id": 22,
+        "name": "Samsung Refrigerator - 150L",
+        "quantity": 12,
+        "price": 25000
+      },
+      {
+        "id": 23,
+        "name": "Smart Watch - Generic",
+        "quantity": 35,
+        "price": 3500
+      },
+      {
+        "id": 24,
+        "name": "MacBook Pro 16-inch",
+        "quantity": 5,
+        "price": 215000
+      },
+      {
+        "id": 25,
+        "name": "Lava Cake 1kg",
+        "quantity": 50,
+        "price": 1500
+      },
+      {
+        "id": 26,
+        "name": "Coca-Cola 500ml",
+        "quantity": 250,
+        "price": 50
+      },
+      {
+        "id": 27,
+        "name": "Samsung Galaxy Watch Active2",
+        "quantity": 35,
+        "price": 22000
+      },
+      {
+        "id": 28,
+        "name": "Toshiba External Hard Drive 1TB",
+        "quantity": 30,
+        "price": 8500
+      },
+      {
+        "id": 29,
+        "name": "Xiaomi Redmi Note 10",
+        "quantity": 65,
+        "price": 20000
+      },
+      {
+        "id": 30,
+        "name": "Bosch Cordless Drill",
+        "quantity": 18,
+        "price": 11000
+      },
+      {
+        "id": 31,
+        "name": "PlayStation 5 Console",
+        "quantity": 8,
+        "price": 75000
+      },
+      {
+        "id": 32,
+        "name": "Vitamix Blender",
+        "quantity": 22,
+        "price": 28000
+      },
+      {
+        "id": 33,
+        "name": "JBL Bluetooth Speakers",
+        "quantity": 40,
+        "price": 12000
+      },
+      {
+        "id": 34,
+        "name": "Instant Pot Pressure Cooker",
+        "quantity": 15,
+        "price": 9500
+      },
+      {
+        "id": 35,
+        "name": "Kenya Airways Hoodie",
+        "quantity": 90,
+        "price": 2500
+      },
+      {
+        "id": 36,
+        "name": "Shampoo - Head & Shoulders 400ml",
+        "quantity": 150,
+        "price": 500
+      },
+      {
+        "id": 37,
+        "name": "Coca-Cola 1.5L",
+        "quantity": 200,
+        "price": 100
+      },
+      {
+        "id": 38,
+        "name": "Sunsilk Conditioner - 400ml",
+        "quantity": 180,
+        "price": 550
+      },
+      {
+        "id": 39,
+        "name": "Samsung 32-inch Smart TV",
+        "quantity": 10,
+        "price": 28000
+      },
+      {
+        "id": 40,
+        "name": "Kenya Tea 200g",
+        "quantity": 250,
+        "price": 300
+      },
+      {
+        "id": 41,
+        "name": "Sunflower Oil - 2L",
+        "quantity": 100,
+        "price": 500
+      },
+      {
+        "id": 42,
+        "name": "Catherine Kasavuli - Music Album CD",
+        "quantity": 80,
+        "price": 1500
+      },
+      {
+        "id": 43,
+        "name": "Samsung Galaxy Tab A",
+        "quantity": 15,
+        "price": 25000
+      },
+      {
+        "id": 44,
+        "name": "Motorola G60",
+        "quantity": 60,
+        "price": 24000
+      },
+      {
+        "id": 45,
+        "name": "Canon EOS Camera",
+        "quantity": 20,
+        "price": 85000
+      },
+      {
+        "id": 46,
+        "name": "Sandwich Maker",
+        "quantity": 50,
+        "price": 2500
+      },
+      {
+        "id": 47,
+        "name": "Huawei P40 Lite",
+        "quantity": 55,
+        "price": 22000
+      },
+      {
+        "id": 48,
+        "name": "Washing Powder - Ariel 1kg",
+        "quantity": 200,
+        "price": 350
+      },
+      {
+        "id": 49,
+        "name": "Fried Chicken Meal",
+        "quantity": 100,
+        "price": 800
+      },
+      {
+        "id": 50,
+        "name": "Instant Coffee - 100g",
+        "quantity": 150,
+        "price": 450
+      },
+      {
+        "id": 51,
+        "name": "Razor Blade (Pack of 10)",
+        "quantity": 180,
+        "price": 150
+      },
+      {
+        "id": 52,
+        "name": "Kirkland Signature Almonds - 1kg",
+        "quantity": 30,
+        "price": 2500
+      },
+      {
+        "id": 53,
+        "name": "Dove Body Wash - 500ml",
+        "quantity": 130,
+        "price": 550
+      },
+      {
+        "id": 54,
+        "name": "Toshiba 32-inch LED TV",
+        "quantity": 10,
+        "price": 22000
+      },
+      {
+        "id": 55,
+        "name": "Makita Cordless Drill",
+        "quantity": 12,
+        "price": 11000
+      },
+      {
+        "id": 56,
+        "name": "Infinix Zero 8",
+        "quantity": 55,
+        "price": 23000
+      },
+      {
+        "id": 57,
+        "name": "TCL 32-inch TV",
+        "quantity": 30,
+        "price": 21000
+      },
+      {
+        "id": 58,
+        "name": "Shoes - Nike Running",
+        "quantity": 100,
+        "price": 4500
+      },
+      {
+        "id": 59,
+        "name": "Oculus Quest 2 VR Headset",
+        "quantity": 5,
+        "price": 65000
+      },
+      {
+        "id": 60,
+        "name": "Memory Foam Mattress",
+        "quantity": 25,
+        "price": 23000
+      },
+      {
+        "id": 61,
+        "name": "Fruit Basket (Mixed)",
+        "quantity": 50,
+        "price": 1200
+      },
+      {
+        "id": 62,
+        "name": "Moringa Powder 100g",
+        "quantity": 40,
+        "price": 850
+      },
+      {
+        "id": 63,
+        "name": "Toshiba Laptop",
+        "quantity": 10,
+        "price": 50000
+      },
+      {
+        "id": 64,
+        "name": "Polyester Bed Sheets",
+        "quantity": 80,
+        "price": 1200
+      },
+      {
+        "id": 65,
+        "name": "Electric Fan - 12-inch",
+        "quantity": 100,
+        "price": 2500
+      },
+      {
+        "id": 66,
+        "name": "Garnier Skin Naturals",
+        "quantity": 120,
+        "price": 400
+      },
+      {
+        "id": 67,
+        "name": "Bosch Coffee Grinder",
+        "quantity": 25,
+        "price": 5500
+      },
+      {
+        "id": 68,
+        "name": "Canon Printer 1020",
+        "quantity": 18,
+        "price": 10000
+      },
+      {
+        "id": 69,
+        "name": "Milk Powder - 1kg",
+        "quantity": 200,
+        "price": 550
+      },
+      {
+        "id": 70,
+        "name": "Sony Bluetooth Headphones",
+        "quantity": 45,
+        "price": 15000
+      },
+      {
+        "id": 71,
+        "name": "Sofa Set - 3-Seater",
+        "quantity": 8,
+        "price": 35000
+      },
+      {
+        "id": 72,
+        "name": "JBL Partybox 1000",
+        "quantity": 3,
+        "price": 150000
+      },
+      {
+        "id": 73,
+        "name": "Bar Soap - Sunlight 750g",
+        "quantity": 180,
+        "price": 200
+      },
+      {
+        "id": 74,
+        "name": "Compact Refrigerator - 90L",
+        "quantity": 20,
+        "price": 12000
+      },
+      {
+        "id": 75,
+        "name": "Earbuds - Anker Soundcore",
+        "quantity": 60,
+        "price": 4000
+      },
+      {
+        "id": 76,
+        "name": "MacBook Pro 13-inch",
+        "quantity": 4,
+        "price": 185000
+      },
+      {
+        "id": 77,
+        "name": "Citrus Juice - 500ml",
+        "quantity": 80,
+        "price": 200
+      },
+      {
+        "id": 78,
+        "name": "Digital Camera - Canon EOS 70D",
+        "quantity": 5,
+        "price": 90000
+      },
+      {
+        "id": 79,
+        "name": "Samsung Galaxy Tab S7",
+        "quantity": 10,
+        "price": 60000
+      },
+      {
+        "id": 80,
+        "name": "Xiaomi Redmi 9C",
+        "quantity": 40,
+        "price": 15000
+      },
+      {
+        "id": 81,
+        "name": "Bread - Hot Loaf 500g",
+        "quantity": 250,
+        "price": 50
+      },
+      {
+        "id": 82,
+        "name": "T-Shirt - Puma",
+        "quantity": 100,
+        "price": 1200
+      }
+    ]
+  }
+  
