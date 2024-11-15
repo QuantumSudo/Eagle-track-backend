@@ -10,10 +10,10 @@
     "build": "echo 'No build step for the backend'"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.0",
     "nodemon": "^2.0.22"
   },
-  "devDependencies": {},
   "engines": {
     "node": "16.x"
   },
