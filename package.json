@@ -2,9 +2,9 @@
   "name": "eagle-track-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --port 5000",
-    "dev": "nodemon server.js",
-    "test": "echo 'No test step for the backend'"
+  "start": "json-server --watch db.json --port $PORT",
+  "dev": "nodemon server.js",
+  "test": "echo 'No test step for the backend'"
   },
   "dependencies": {
     "json-server": "^0.17.0",
